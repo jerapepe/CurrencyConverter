@@ -1,6 +1,8 @@
 
 # CurrencyConverter
 
+  ![Logo oracle](Badge-Conversor.png)
+
 ## Descripción del Proyecto
 
 El programa es un convertidor de divisas que permite a los usuarios convertir montos de una moneda a otra. Está diseñado para ser interactivo, con un menú que solicita al usuario la moneda de origen, la moneda de destino y el monto a convertir.
